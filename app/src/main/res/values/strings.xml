@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bloc_De_Notas</string>
+    <string name="action_shave">Guardar</string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>

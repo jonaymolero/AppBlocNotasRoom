@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="net.azarquiel.bloc_de_notas.view.DetailActivity">
+    <item
+        android:id="@+id/action_shave"
+        android:orderInCategory="100"
+        android:icon="@mipmap/ico_shave"
+        android:title="@string/action_shave"
+        app:showAsAction="always" />
+</menu>
